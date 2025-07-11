@@ -47,10 +47,11 @@ class Args:
 ```
 ### Pre-trained Models
 The **model_pth** directory should contain the following pre-trained models:
-- **resnet18**
-- **resnet50**
-- **ViT_B32**
-Link：https://pan.baidu.com/s/1pOGIZkY9ndo6nkPRgrU2kQ 
+- **resnet18**Link：https://pan.baidu.com/s/1pOGIZkY9ndo6nkPRgrU2kQ 
+Passwords：36cs 
+- **resnet50**Link：https://pan.baidu.com/s/1pOGIZkY9ndo6nkPRgrU2kQ 
+Passwords：36cs 
+- **ViT_B32**Link：https://pan.baidu.com/s/1pOGIZkY9ndo6nkPRgrU2kQ 
 Passwords：36cs 
 
 ### Training Results
