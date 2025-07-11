@@ -1,8 +1,6 @@
 # PID-Inspired Continuous Correction for Visual Reprogramming
 
-This repository is the official PyTorch implementation of the **ICML2025** paper:
-[PID-Inspired Continuous Correction for Visual Reprogramming],
-authored by Anonymous Authors.
+This repository is the official PyTorch implementation of the paper:[PID-Inspired Continuous Correction for Visual Reprogramming].
 
 **Key Words:**
 Visual Reprogramming, Closed-loop Correction Reprogramming (CCR), PID, Proportional Adjustment Controller (PAC), Fine-grained, Machine Learnin
