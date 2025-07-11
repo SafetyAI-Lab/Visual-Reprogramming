@@ -50,6 +50,8 @@ The **model_pth** directory should contain the following pre-trained models:
 - **resnet18**
 - **resnet50**
 - **ViT_B32**
+Link：https://pan.baidu.com/s/1pOGIZkY9ndo6nkPRgrU2kQ 
+Passwords：36cs 
 
 ### Training Results
 The final training results will be saved in the **results** folder, allowing easy access to evaluate and analyze the outcomes of your training.
